@@ -168,7 +168,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   locale: 'en-US',
-  title: 'Your Name / Site Title',
+  title: 'Home',
   titleSeparator: '-',
   description: "Your Name's Academic Portfolio",
   url: 'https://username.github.io',
@@ -178,26 +178,26 @@ export const siteConfig: SiteConfig = {
     // Dark: 'default' | 'github-dark' | 'one-dark' | 'catppuccin-mocha' | 'dracula' | 'tokyo-night' | 'solarized-dark' | 'nord' | 'gruvbox-dark' | 'monokai' | 'rose-pine' | 'night-owl' | 'ayu-dark' | 'kanagawa-wave' | 'everforest-dark' | 'flexoki-dark'
     dark: 'default',
     // Set to false or remove on personal sites to disable the live masthead theme picker
-    picker: true,
+    picker: false,
   },
   breadcrumbs: true,
   author: {
-    avatar: '/images/profile.png',
-    name: 'Your Name',
-    bio: 'Role / Title · Department · Research Focus',
-    location: 'City, State / Country',
-    employer: 'Your University or Organization',
-    website: 'https://example.org',
-    email: 'none@example.org',
+    avatar: '/images/image-pasfoto.png',
+    name: 'Meky Kwak',
+    bio: 'Student · Statistic · Faculty of Mathematics and Sciences',
+    location: 'Komba, Sentani / Jayapura',
+    employer: 'Universitas Cenderawasih',
+    website: 'https://www.uncen.ac.id/',
+    email: 'kwakmeky@gmail.com',
 
     // Academic & Scholarly Profiles (accepts username/ID or full URL)
-    googlescholar: 'https://scholar.google.com/citations?user=your_scholar_id',
-    orcid: '0000-0000-0000-0000',
+    //googlescholar: 'https://scholar.google.com/citations?user=your_scholar_id',
+    //orcid: '0000-0000-0000-0000',
 
     // Code & Professional Profiles
-    github: 'your-github-username',
-    linkedin: 'your-linkedin-username',
-    x: 'your-x-handle',
+    github: 'meky0014',
+    //linkedin: 'your-linkedin-username',
+    //x: 'your-x-handle',
   },
   publicationCategories: {
     books: { title: 'Books' },
