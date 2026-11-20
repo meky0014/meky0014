@@ -1,6 +1,24 @@
 ---
-title: Background
+title: Home
 ---
+
+[Background](http://localhost:4321/background/)
+======
+
+[Projects](http://localhost:4321/projects/)
+======
+
+[Skills](http://localhost:4321/skills/)
+======
+
+[CV](http://localhost:4321/cv/)
+======
+
+[Guide](http://localhost:4321/markdown/)
+======
+
+Hi, want to know me more? Just click all the buttons above and see!
+===
 
 This website is powered by the **[Academic Pages Astro template](https://github.com/arghyadipchak/academicpages-astro)** and hosted on GitHub Pages. Built with **Astro 7**, **TypeScript**, and **Tailwind CSS v4**, this template provides blazing-fast load times, strict type safety, and all the content features needed for academic careers: publications, talks, teaching, portfolios, blog posts, and a dynamically-generated CV.
 
